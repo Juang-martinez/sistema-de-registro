@@ -1,5 +1,5 @@
-<h1> Sistema de registro 2 <h1>
+<h1>Sistema de Registro 2</h1>
 
-Estado del sistema: En construcción
+- Estado del sistema: En construcción
 
 
