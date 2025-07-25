@@ -5,3 +5,5 @@
 Para ejecutar el sistema debes poner:
 
 (Se agrega una explicación donde la otra persona pueda entender)
+
+sistema de registro 2
